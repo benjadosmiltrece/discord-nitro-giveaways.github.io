@@ -1,0 +1,25 @@
+* {
+    text-decoration: none;
+    font-family: 'Uni Sans Demo', sans-serif;
+
+}
+
+:root {
+
+
+}
+
+
+body {
+    background-image: url("assets/bg.png");
+    background-size: cover;
+    background-size: 140%;
+    background-position:top;
+    position: fixed;
+    background-color: #404EED;
+}
+
+h1, p {
+    text-align: center;
+
+}
